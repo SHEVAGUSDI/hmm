@@ -1,0 +1,14 @@
+# Gradle build artifacts
+BMI-Calculator-Android-main/.gradle/
+BMI-Calculator-Android-main/build/
+BMI-Calculator-Android-main/app/build/
+BMI-Calculator-Android-main/local.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
